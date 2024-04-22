@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/xign.ai.iml" filepath="$PROJECT_DIR$/xign.ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xign.ai.iml" filepath="$PROJECT_DIR$/.idea/modules/xign.ai.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/xign.ai.main.iml" filepath="$PROJECT_DIR$/.idea/modules/xign.ai.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/xign.ai.test.iml" filepath="$PROJECT_DIR$/.idea/modules/xign.ai.test.iml" />
     </modules>
