@@ -3,7 +3,7 @@ package com.xignai.model.entity;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 
-@Entity
+//@Entity
 @Table(name="assets")
 public class Asset {
     private String id;
